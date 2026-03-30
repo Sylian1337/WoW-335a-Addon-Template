@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: AddonTemplate
+## Version: 1.0
+## Notes: Write some notes
+## Author: Write your name
+
+Core.lua
