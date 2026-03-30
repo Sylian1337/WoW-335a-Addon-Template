@@ -16,4 +16,7 @@
 
 ## Standalone Client Addon + AIO Eluna Setup
 1. Download the folder called Standalone-AIO-Server-Client.
-2. 
+2. Open the folder, go into the folder "Server", and drag that file into your "lua-scripts" folder.
+3. Go back to the root of the "Standalone-AIO-Server-Client" folder.
+4. Drag the folder called "AddonTemplate" into your client folder (Follow steps at "Client Addon").
+5. Now you are done!
